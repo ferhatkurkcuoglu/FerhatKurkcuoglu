@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferhat</h1>
-<h3 align="center">AI Engineer(ML&NLP&LLM)</h3>
+<h3 align="center">AI Engineer(ML & NLP & LLM)</h3>
 
 - 🔭 I’m currently working on **Natural Language Processing**
 
